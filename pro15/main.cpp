@@ -148,7 +148,7 @@ cout<<"cant add this addition"<<endl;
 };
 int main (){
 
-
+   cout<<"welcome to our resturant"<<endl;
     Burger burger("normal","white","meat",23);
     burger.setaddition1("coca",10);
    cout<<"the total price : "<< burger.bringtotal()<<endl;
